@@ -14,11 +14,28 @@ https://www.zhihu.com/question/30508773
 
 #### dataset
 
+###### Fraud Detection
+
 Synthetic Financial Datasets For Fraud Detection
 https://www.kaggle.com/ntnu-testimon/paysim1/home
 
 Credit Card Fraud Detection
 https://www.kaggle.com/mlg-ulb/creditcardfraud/data
+
+Graph Fraud Datasets from Pro.Srijan Kumar
+https://www.cc.gatech.edu/~srijan/
+
+###### Graph dataset
+
+Standford graph datasets
+http://snap.stanford.edu/data/?utm_source=qq&utm_medium=social&utm_oi=43664650797056#socnets
+
+Bitcoin OTC trust weighted signed network
+https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html
+
+###### Outlier Detection Datasets(ODDS)
+
+http://odds.cs.stonybrook.edu/#table4
 
 
 
