@@ -89,7 +89,7 @@ may need domain experts
 
 correlation matrix/ multidimensional scaling  => try to see some problems
 
-##### 2. algorithm
+##### 2. Algorithms
 
 two assumptions
 
@@ -111,7 +111,7 @@ relation network: 1.detect community (Walktrap, InforMap, FastGreedy) 2. using g
 
 
 
-##### 3. testify predictions
+##### 3. Testify predictions
 
 can not avoid bias, 
 
